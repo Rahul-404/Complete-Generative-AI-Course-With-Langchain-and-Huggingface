@@ -3,3 +3,10 @@ venv/
 .env
 .resources
 resources/
+Section-14_End-to-End-Deep-Learning-Projects-With-Simple-RNN/simple_rnn_imdb.h5
+Section-14_End-to-End-Deep-Learning-Projects-With-Simple-RNN/simple_rnn_imdb.keras
+Section-16_LSTM-and-GRU-End-to-End-Deep-Learning-Project-Predicting-Next-Word/next_word_lstm_model_with_early_stopping.h5
+Section-16_LSTM-and-GRU-End-to-End-Deep-Learning-Project-Predicting-Next-Word/next_word_lstm.h5
+Section-16_LSTM-and-GRU-End-to-End-Deep-Learning-Project-Predicting-Next-Word/next_word_lstm.keras
+Section-16_LSTM-and-GRU-End-to-End-Deep-Learning-Project-Predicting-Next-Word/tokenizer.pickle
+Section-16_LSTM-and-GRU-End-to-End-Deep-Learning-Project-Predicting-Next-Word/.DS_Store
